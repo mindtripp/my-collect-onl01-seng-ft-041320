@@ -8,5 +8,5 @@ def my_collect(array)
   collect
 end
 
-© 2020 GitHub, Inc.
+
 
